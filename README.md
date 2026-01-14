@@ -3,33 +3,34 @@
 # 🧠 Personal Dashboard
 
 > 🛡️ **Cybersecurity & Computer Engineering Student**  
-> Focused on **Web Application Security, Reconnaissance & Bug Bounty**
+> Focused on **Offensive Security and Ethical Hacking**
 
 ---
 
 ## 🛡️ Cybersecurity Focus
 
 <details>
-  <summary>🔐 Web Security</summary>
+  <summary>⚔️ Offensive Security</summary>
 
-  - OWASP Top 10  
-  - Burp Suite  
-  - SQLi, XSS, IDOR  
+  - Penetration Testing  
+  - Exploitation Fundamentals  
+  - Vulnerability Analysis  
 </details>
 
 <details>
-  <summary>🕵️ Recon & OSINT</summary>
+  <summary>🕵️ Recon & Enumeration</summary>
 
   - Passive & Active Recon  
-  - Nmap  
-  - Google Dorking  
+  - Network & Asset Discovery  
+  - OSINT Techniques  
 </details>
 
+
 <details>
-  <summary>🐧 Linux & Environment</summary>
+  <summary>🐧 Linux & Network</summary>
 
   - Kali Linux  
-  - VMware  
+  - GNU/ Linux  
   - Networking Basics  
 </details>
 
@@ -42,7 +43,7 @@
 | Web Security | Burp Suite | 🟡 |
 | Recon | Nmap | 🟢 |
 | Programming | Java | 🟢 |
-| Low-Level | C | 🟡 |
+| Low-Level | C | 🟢 |
 | Scripting | Python | 🟡 |
 
 🟢 Good 🟡 Improving 🔴 Beginner
@@ -69,5 +70,5 @@
 ## 📫 Contact
 
 - 🌍 Turkey  
-- 💼 LinkedIn: *(ekle)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/muhammed-ali-sakci)*  
 - 📘 Not
