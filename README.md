@@ -30,8 +30,20 @@
   <summary>🐧 Linux & Network</summary>
 
   - Kali Linux  
-  - GNU/ Linux  
+  - GNU / Linux  
   - Networking Basics  
+
+  👉 [📂 Linux & Network Repository](https://github.com/MuhammedAliSakci/-Linux-Network)
+</details>
+
+<details>
+  <summary>🐧 Linux & Network</summary>
+
+  - Kali Linux  
+  - GNU / Linux  
+  - Networking Basics  
+
+  👉 [📂 Linux & Network Repository](https://github.com/MuhammedAliSakci/-Linux-Network)
 </details>
 
 ---
